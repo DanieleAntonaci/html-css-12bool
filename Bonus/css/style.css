@@ -1,0 +1,25 @@
+/* debug */
+[class*="col"]{
+    background-color:#006cfa ;
+    border: solid 1px white;
+    min-height: 50px;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nasted{
+    padding: 20px;
+}
+.nasted div{
+    background-color: #00e265;
+    border: 0;
+    margin: 0 1px;
+}
+.big{
+    min-height: 100px;
+}
+.fix-height{
+    height: 50px;
+}
