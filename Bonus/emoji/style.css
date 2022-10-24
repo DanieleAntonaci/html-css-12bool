@@ -1,0 +1,15 @@
+[class*="col"]{
+    min-height: 100px;
+}
+.yellow{
+    background-color: #f3ef14;
+}
+.black{
+    background-color: black;
+}
+.white{
+    background-color: white;
+}
+.light-blue{
+    background-color: #1dc8e4;
+}
